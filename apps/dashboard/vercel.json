@@ -1,5 +1,6 @@
 {
   "installCommand": "cd ../.. && pnpm install",
+  "ignoreCommand": "bash ../../scripts/ci/vercel-ignore.sh",
   "buildCommand": "bash scripts/build.sh",
   "framework": "nextjs"
 }
