@@ -5,7 +5,6 @@
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "jsx": "preserve",
     "paths": { "@/*": ["./src/*"] },
-    "baseUrl": ".",
     "allowJs": true,
     "noEmit": true,
     "incremental": true,

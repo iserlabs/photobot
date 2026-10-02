@@ -7,7 +7,6 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "baseUrl": ".",
     "allowJs": true,
     "noEmit": true,
     "incremental": true,
