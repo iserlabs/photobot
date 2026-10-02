@@ -12,8 +12,8 @@
     "@auth/prisma-adapter": "^2.11.1",
     "@photobot/db": "workspace:*",
     "lucide-react": "^1.7.0",
-    "next": "16.2.2",
-    "next-auth": "^4.24.13",
+    "next": "16.3.6",
+    "next-auth": "^4.24.15",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
@@ -26,7 +26,7 @@
     "@vitejs/plugin-react": "^6.0.1",
     "autoprefixer": "^10.4.17",
     "jsdom": "^24.0.0",
-    "postcss": "^8.4.35",
+    "postcss": "^8.5.28",
     "tailwindcss": "^3.4.1"
   }
 }
