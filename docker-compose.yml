@@ -5,7 +5,7 @@ services:
   # --- Supabase Local Services ---
   db:
     container_name: photobot-db
-    image: supabase/postgres:15.19.0.002
+    image: supabase/postgres:15.19.0.004
     ports:
       - "${DB_PORT:-54422}:5432"
     environment:
