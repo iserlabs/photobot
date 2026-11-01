@@ -9,7 +9,7 @@ through an admin dashboard — exclusively serving Photography Lounge.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tests](https://github.com/kevinkiklee/photobot/actions/workflows/ci.yml/badge.svg)](https://github.com/kevinkiklee/photobot/actions/workflows/ci.yml)
-[![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-24%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/discord.js-14-5865F2?logo=discord&logoColor=white)](https://discord.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
@@ -54,7 +54,7 @@ Dashboard at `http://localhost:3100`. Voting site at `http://localhost:3200`. Bo
 - Voting: [discussion-prompts.pl.iser.io](https://discussion-prompts.pl.iser.io)
 - Dashboard: [bot-dashboard.pl.iser.io](https://bot-dashboard.pl.iser.io)
 
-> **Prerequisites:** Node.js 20+, pnpm 8+, Docker, and a [Discord Application](https://discord.com/developers/applications) with bot token.
+> **Prerequisites:** Node.js 24+, pnpm 8+, Docker, and a [Discord Application](https://discord.com/developers/applications) with bot token.
 
 For step-by-step setup including Discord app creation and OAuth2 configuration, see [docs/LOCAL_SETUP.md](docs/LOCAL_SETUP.md).
 
